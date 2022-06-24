@@ -7,6 +7,5 @@ sudo yum install -y git
 git clone https://github.com/meth-meth-method/super-mario.git
 cd super-mario/
 npm install
-npm install pm2 -g
-pm2 start  
+npm start  
 
